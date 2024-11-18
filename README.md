@@ -1,4 +1,4 @@
-#Project Title: Movie Rating and Genre Prediction Using Network Science Assisted by Machine Learning
+# Project Title: Movie Rating and Genre Prediction Using Network Science Assisted by Machine Learning
 Description: This project aims to leverage network science and machine learning techniques to predict movie ratings and genres using the IMDB dataset. With a dataset comprising 25,000 movies, we will explore and analyze various network characteristics and apply different machine learning models to enhance prediction accuracy. Additionally, we will utilize cosine similarity for genre and rating predictions without relying on machine learning models.
 
 Genre Prediction Using Machine Learning Models:
